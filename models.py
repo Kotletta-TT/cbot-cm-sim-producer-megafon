@@ -29,6 +29,6 @@ class Sim:
         self.minute_remain = minute_remain
         self.minute_total = minute_total
         self.accured = accured
-        subscr_fee = subscr_fee
+        self.subscr_fee = subscr_fee
 
     
